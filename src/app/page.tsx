@@ -1,9 +1,11 @@
-const Page = () => {
+
+const Page = async () => {
+
   return(
     <div>
-      Hello world
+      hello world
     </div>
   )
-}
+};
 
-export default Page
+export default Page;
